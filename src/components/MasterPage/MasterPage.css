@@ -1,0 +1,64 @@
+.wrapper-footer {
+  background-color: #5F9EA0;
+}
+
+.masterprofile__group {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.masterprofile__title {
+  font-size: 24px;
+  font-weight: bold;
+  border-bottom: solid 1px grey;
+}
+
+.masterprofile__label {
+  font-size: 20px;
+}
+
+.masterprofile__value {
+  color: #2F4F4F;
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 8px;
+}
+
+.masterprofile__form-link {
+  font-size: 2vh;
+  color: #5F9EA0;
+  cursor: pointer;
+}
+
+.masterprofile__delete {
+  color: red;
+}
+
+.masterprofile__object-info {
+  margin-right: 12px;
+}
+
+.addobjectform {
+  margin: 0px;
+  width: 100%;
+  box-sizing: border-box;
+  height: 100vh;
+  background-color: #000000;
+  left: 100%;
+  overflow-y: auto;
+}
+
+.addobjectform--show {
+  transform: translate(-100%, 0  );
+  transition: all 0.5s ease-in-out;
+  overflow-y: scroll;
+}
+
+.addobjectformform--hidden  {
+  transform: translate(100%, 0  );
+  transition: all 0.5s ease-in-out;
+}
+
+.redirect-page {
+  height: 500px;
+}

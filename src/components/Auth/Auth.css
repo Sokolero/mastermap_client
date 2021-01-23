@@ -1,0 +1,50 @@
+.loginform {
+  color: #D3D3D3;
+  margin: 0px;
+  width: 100%;
+  box-sizing: border-box;
+  height: 100vh;
+  background-color: #000000;
+  left: 100%;
+}
+
+.loginform--show {
+  transform: translate(-100%, 0  );
+  transition: all 0.5s ease-in-out;
+}
+
+.loginform--hidden  {
+  transform: translate(100%, 0  );
+  transition: all 0.5s ease-in-out;
+}
+
+.loginform__form {
+  max-width: 600px;
+  width: 90%;
+}
+
+.closeButton {
+  height: 23px;
+  width: 23px;
+  background: url("/images/loginClose.png") 0px 0px no-repeat;
+  cursor: pointer;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+.or-text {
+  font-size: 16px;
+  margin:0;
+}
+
+.note {
+  font-size: 14px;
+  line-height: normal;
+}
+
+.forgot-password {
+  font-size: 16px;
+  color: #FFFF00;
+}

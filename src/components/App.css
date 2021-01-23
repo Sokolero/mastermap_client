@@ -1,0 +1,46 @@
+
+.App {
+  font-size: 24px;
+  overflow-y: hidden;
+}
+
+.app-container {
+  padding-top: 60px;
+  background-color: #ffffff;
+}
+
+.header {
+  background-color: #F6EFE8;
+  height: auto;
+  font-size: 20px;
+}
+
+.header__title {
+  text-align: center;
+}
+
+.header__p {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin: 0;
+  text-align: center;
+}
+
+.header__login-button {
+  height: 64px;
+}
+
+.main {
+  height: 100vh;
+  background-color: #C4C4C4;
+}
+
+@media (min-width: 769px) {
+  .main {
+    height: 70vh;
+  }
+}
+
+.main__map {
+  height: 100%;
+}

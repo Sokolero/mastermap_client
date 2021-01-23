@@ -1,0 +1,20 @@
+.empty-page {
+  height:90vh;
+}
+
+.card-title {
+  font-size: 22px;
+}
+
+.card-text {
+  font-size: 16px;
+}
+
+.addIcon {
+  height: 100%;
+  cursor: pointer;
+}
+
+.addIcon:hover {
+  border: solid 2px blue;
+}

@@ -1,0 +1,54 @@
+.gallery {
+  margin: 0px;
+  width: 100%;
+  box-sizing: border-box;
+  height: 100vh;
+  background-color: #000000;
+  left: 100%;
+}
+
+.gallery--show {
+  transform: translate(-100%, 0  );
+  transition: all 0.5s ease-in-out;
+}
+
+.gallery--hidden  {
+  transform: translate(100%, 0  );
+  transition: all 0.5s ease-in-out;
+}
+
+@media (orientation: landscape) {
+  .gallery__image {
+    width: auto;
+    height: 90vh;
+  }
+}
+
+@media (orientation: portrait) {
+  .gallery__image {
+    width: 100%;
+    height: auto;
+  }
+}
+
+
+.wrapper-footer {
+  background-color: #5F9EA0;
+}
+
+.footer {
+  background-color: #5F9EA0;
+  height: auto;
+  font-size: 16px;
+}
+
+.social-icon {
+  height: 28px;
+}
+
+.closeButton {
+  height: 23px;
+  width: 23px;
+  background: url("/images/loginClose.png") 0px 0px no-repeat;
+  cursor: pointer;
+}
