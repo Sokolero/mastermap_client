@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Sokolero/mastermap_client/static/css/main.d87a7e69.chunk.css",
-    "main.js": "/Sokolero/mastermap_client/static/js/main.0fee31db.chunk.js",
-    "main.js.map": "/Sokolero/mastermap_client/static/js/main.0fee31db.chunk.js.map",
-    "runtime-main.js": "/Sokolero/mastermap_client/static/js/runtime-main.dd6a9e27.js",
-    "runtime-main.js.map": "/Sokolero/mastermap_client/static/js/runtime-main.dd6a9e27.js.map",
-    "static/css/2.2a86faee.chunk.css": "/Sokolero/mastermap_client/static/css/2.2a86faee.chunk.css",
-    "static/js/2.710f9094.chunk.js": "/Sokolero/mastermap_client/static/js/2.710f9094.chunk.js",
-    "static/js/2.710f9094.chunk.js.map": "/Sokolero/mastermap_client/static/js/2.710f9094.chunk.js.map",
-    "index.html": "/Sokolero/mastermap_client/index.html",
-    "precache-manifest.ed07292aa64f75d1deb241ccbce4cb1f.js": "/Sokolero/mastermap_client/precache-manifest.ed07292aa64f75d1deb241ccbce4cb1f.js",
-    "service-worker.js": "/Sokolero/mastermap_client/service-worker.js",
-    "static/css/2.2a86faee.chunk.css.map": "/Sokolero/mastermap_client/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.d87a7e69.chunk.css.map": "/Sokolero/mastermap_client/static/css/main.d87a7e69.chunk.css.map",
-    "static/js/2.710f9094.chunk.js.LICENSE.txt": "/Sokolero/mastermap_client/static/js/2.710f9094.chunk.js.LICENSE.txt"
+    "main.css": "/mastermap_client/static/css/main.d87a7e69.chunk.css",
+    "main.js": "/mastermap_client/static/js/main.05181db8.chunk.js",
+    "main.js.map": "/mastermap_client/static/js/main.05181db8.chunk.js.map",
+    "runtime-main.js": "/mastermap_client/static/js/runtime-main.fbbfba1d.js",
+    "runtime-main.js.map": "/mastermap_client/static/js/runtime-main.fbbfba1d.js.map",
+    "static/css/2.2a86faee.chunk.css": "/mastermap_client/static/css/2.2a86faee.chunk.css",
+    "static/js/2.710f9094.chunk.js": "/mastermap_client/static/js/2.710f9094.chunk.js",
+    "static/js/2.710f9094.chunk.js.map": "/mastermap_client/static/js/2.710f9094.chunk.js.map",
+    "index.html": "/mastermap_client/index.html",
+    "precache-manifest.654b4e9c48a367f39aed973a9f6dd331.js": "/mastermap_client/precache-manifest.654b4e9c48a367f39aed973a9f6dd331.js",
+    "service-worker.js": "/mastermap_client/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/mastermap_client/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.d87a7e69.chunk.css.map": "/mastermap_client/static/css/main.d87a7e69.chunk.css.map",
+    "static/js/2.710f9094.chunk.js.LICENSE.txt": "/mastermap_client/static/js/2.710f9094.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd6a9e27.js",
+    "static/js/runtime-main.fbbfba1d.js",
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.710f9094.chunk.js",
     "static/css/main.d87a7e69.chunk.css",
-    "static/js/main.0fee31db.chunk.js"
+    "static/js/main.05181db8.chunk.js"
   ]
 }
