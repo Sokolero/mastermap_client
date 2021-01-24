@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Sokolero/mastermap_client/static/css/main.d87a7e69.chunk.css",
+    "main.js": "/Sokolero/mastermap_client/static/js/main.0fee31db.chunk.js",
+    "main.js.map": "/Sokolero/mastermap_client/static/js/main.0fee31db.chunk.js.map",
+    "runtime-main.js": "/Sokolero/mastermap_client/static/js/runtime-main.dd6a9e27.js",
+    "runtime-main.js.map": "/Sokolero/mastermap_client/static/js/runtime-main.dd6a9e27.js.map",
+    "static/css/2.2a86faee.chunk.css": "/Sokolero/mastermap_client/static/css/2.2a86faee.chunk.css",
+    "static/js/2.710f9094.chunk.js": "/Sokolero/mastermap_client/static/js/2.710f9094.chunk.js",
+    "static/js/2.710f9094.chunk.js.map": "/Sokolero/mastermap_client/static/js/2.710f9094.chunk.js.map",
+    "index.html": "/Sokolero/mastermap_client/index.html",
+    "precache-manifest.ed07292aa64f75d1deb241ccbce4cb1f.js": "/Sokolero/mastermap_client/precache-manifest.ed07292aa64f75d1deb241ccbce4cb1f.js",
+    "service-worker.js": "/Sokolero/mastermap_client/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/Sokolero/mastermap_client/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.d87a7e69.chunk.css.map": "/Sokolero/mastermap_client/static/css/main.d87a7e69.chunk.css.map",
+    "static/js/2.710f9094.chunk.js.LICENSE.txt": "/Sokolero/mastermap_client/static/js/2.710f9094.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd6a9e27.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.710f9094.chunk.js",
+    "static/css/main.d87a7e69.chunk.css",
+    "static/js/main.0fee31db.chunk.js"
+  ]
+}
